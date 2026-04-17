@@ -1,0 +1,23 @@
+# Compiled binaries
+pes
+test_objects
+test_tree
+
+# Object files
+*.o
+*.obsidian
+
+# PES repository (created during testing)
+.pes/
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Claude Code settings
+.claude/
+
+
